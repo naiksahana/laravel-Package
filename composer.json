@@ -1,0 +1,19 @@
+{
+    "name": "sahana/otp-generator",
+    "description": "A Laravel package for generating one-time passwords (OTPs)",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sahana\\OtpGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sahana P Naik",
+            "email": "sahananaik@thewholewave.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
